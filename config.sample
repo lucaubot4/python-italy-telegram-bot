@@ -1,8 +1,8 @@
 ENV=boolean
-TOKEN=your-token
-OWNER_ID=your-owner-id
-OWNER_USERNAME=your-owner-username
-DATABASE_URL=postgresql://your-user:your-pwd@db:5432/tgbot
+TOKEN = il tuo token
+OWNER_ID = 1399063198
+OWNER_USERNAME = kove
+DATABASE_URL = postgresql: // tuo-utente: tuo-pwd @ db: 5432 / tgbot
 SUDO_USERS=your-sudo-users-id
 POSTGRES_PASSWORD=your-pg-password
 POSTGRES_DB=tgbot
