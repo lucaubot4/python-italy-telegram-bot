@@ -1,5 +1,5 @@
 ENV=boolean
-TOKEN = il tuo token
+TOKEN = 1406554961: AAEk4Gvilc0q2R3m3L07jxG5f78RVEukDl4
 OWNER_ID = 1399063198
 OWNER_USERNAME = kove
 DATABASE_URL = postgresql: // tuo-utente: tuo-pwd @ db: 5432 / tgbot
